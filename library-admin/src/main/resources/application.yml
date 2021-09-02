@@ -1,0 +1,6 @@
+#
+#mybatis:
+#  mapper-locations:
+#    - classpath:learn/**/dao/*.xml
+#    - classpath*:learn/**/mapper/*.xml
+#
